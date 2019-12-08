@@ -34,6 +34,6 @@ pip install -r req.txt
 ## Images
 
 <img src="Images/main.png" alt="drawing" width="600"/>
-<img src="Images/line.png" alt="drawing" width="300" height="200"/> <img src="Images/box.png" alt="drawing" width="300" height="200"/>
-<img src="Images/hist.png" alt="drawing" width="300" height="200"/> <img src="Images/scatter.png" alt="drawing" width="300" height="200"/>
-<img src="Images/raw.png" alt="drawing" width="300" height="200"/> <img src="Images/pred.png" alt="drawing" width="300" height="200"/>
+<img src="Images/line.png" alt="drawing" width="300" height="200"/><img src="Images/box.png" alt="drawing" width="300" height="200"/>
+<img src="Images/hist.png" alt="drawing" width="300" height="200"/><img src="Images/scatter.png" alt="drawing" width="300" height="200"/>
+<img src="Images/raw.png" alt="drawing" width="300" height="200"/><img src="Images/pred.png" alt="drawing" width="300" height="200"/>
