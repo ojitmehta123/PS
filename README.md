@@ -19,7 +19,7 @@ This project contains a sample graphical user interface made using pyqt 5.9.2 fo
 
 ``` 
 source activate root
-sudo bash setup.bash 
+pip install -r req.txt 
 ```
 
 ---

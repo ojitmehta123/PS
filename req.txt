@@ -1,0 +1,7 @@
+matplotlib
+pandas
+scipy
+seaborn
+numpy
+datetime
+pyramid-arima
